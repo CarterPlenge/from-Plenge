@@ -32,6 +32,16 @@ This table shows some of the popular resturants in Marryville.
 | McDonalds | Fast | on main street |
 | Chick Fil a | fast and Good | in union building |
 
+---
+
+## Humorous Quotes
+
+> "Insanity is doing the same thing over and over and expecting different results."  
+> *—Albert Einstein*
+
+> "If at first you don't succeed, try, try again."  
+> *—William Edward Hickson*
+
 --- 
 
 A Code snippet of Node.js from [Pieces](https://code.pieces.app/collections/node-js)
