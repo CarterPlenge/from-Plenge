@@ -26,8 +26,9 @@ Cross country is my **favorite** sport because I ran it in high school and I **d
 This table shows some of the popular resturants in Marryville.
 
 | Name | Reason | Location |
+|-------------|----------------------|--------------------------|
 | El Megs | Good Mexican food | somewhere on main street |
 | Joy Wok | Good Chinese food | next to dollar tree |
 | McDonalds | Fast | on main street |
-| Chick Filla | fast and Good | in union building |
+| Chick Fil a | fast and Good | in union building |
 
