@@ -11,3 +11,9 @@ Cross country is my **favorite** sport because I ran it in high school and I **d
 1. Nathan
 2. Ethan
 3. Landon
+
+## places to run cross country
+
+* golf course
+* park
+* town
