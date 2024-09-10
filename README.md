@@ -17,3 +17,5 @@ Cross country is my **favorite** sport because I ran it in high school and I **d
 * golf course
 * park
 * town
+
+[Link to MyDish.md](./MyDish.md)
