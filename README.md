@@ -32,3 +32,11 @@ This table shows some of the popular resturants in Marryville.
 | McDonalds | Fast | on main street |
 | Chick Fil a | fast and Good | in union building |
 
+--- 
+
+A Code snippet of Node.js from [Pieces](https://code.pieces.app/collections/node-js)
+
+```
+const path = require("path");
+const resolvePath = relativePath => path.resolve(relativePath);
+```
